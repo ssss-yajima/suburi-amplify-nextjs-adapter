@@ -1,0 +1,10 @@
+{
+	"name": "suburi-amplify-nextjs-adapter",
+	"version": "0.0.1",
+	"description": "",
+	"main": "index.js",
+	"author": "",
+	"devDependencies": {
+		"@biomejs/biome": "1.9.4"
+	}
+}
