@@ -1,0 +1,1 @@
+# suburi-amplify-nextjs-adapter
